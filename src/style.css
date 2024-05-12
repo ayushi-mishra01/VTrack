@@ -484,12 +484,13 @@ label {
 
 .student-container{
   margin-top: 10%;
-  margin-left:40%;
+  /* margin-left:20%; */
   background-color: #dad8d8;
   color: black;
   padding: 20px;
   border-radius: 5px;
-  /* width: 300px; */
+  width: 95%;
+  margin-bottom: 10%;
 }
 
 @media (max-width: 768px) {
